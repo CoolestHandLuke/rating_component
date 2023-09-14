@@ -55,5 +55,5 @@ In the future I want to focus more on mobile first design as I learned the pitfa
 
 ## Author
 
--   Website - [https://www.lukeinthecloud.com](https://www.lukedinthecloud.com)
+-   Website - [https://www.coolesthandluke.com](https://www.coolesthandluke.com)
 -   Frontend Mentor - [https://www.frontendmentor.io/profile/coolesthandluke](https://www.frontendmentor.io/profile/coolesthandluke)
